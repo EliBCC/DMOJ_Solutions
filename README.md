@@ -1,9 +1,9 @@
 # DMOJ Projects
 
-1. [About][#about]
-2. [Mocking SpongeBob][#mocking_spongebob]
-3. [Infinity][#infinity]
-4. [Streetcars][#streetcars]
+1. [About](#about)
+2. [Mocking SpongeBob](#mocking_spongebob)
+3. [Infinity](#infinity)
+4. [Streetcars](#streetcars)
 
 ## About
 
